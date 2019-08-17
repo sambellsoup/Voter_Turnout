@@ -38,7 +38,7 @@ After all of my feature selection, the best features that were consistently indi
   
 ![Voter Age Population Turnout Percentage Compared with Urban Population (%)](https://i.imgur.com/16njAD4.png)
 ![Voter Age Population Turnout Percentage Compared with Education Index](https://i.imgur.com/kcjQMQ0.png)
-![Voter Age Population Turnout Percentage Compared with Mortality Rate of Men](hhttps://i.imgur.com/bjrzqGF.png)
+![Voter Age Population Turnout Percentage Compared with Mortality Rate of Men](https://i.imgur.com/ENq3Rz5.png)
 ![Voter Age Population Turnout Percentage Compared with Infant Mortality Rate](https://i.imgur.com/oUHdrga.png)
 ![Voter Age Population Turnout Percentage Compared with Expected Years of Schooling](https://i.imgur.com/AOY70CC.png)
 ![Voter Age Population Turnout Percentage Compared with Mortality Rate of Women](https://i.imgur.com/ceQvjQh.png)
