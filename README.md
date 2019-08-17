@@ -45,9 +45,12 @@ After all of my feature selection, the best features that were consistently indi
 ![Voter Age Population Turnout Percentage Compared with Life Expectancy](link-to-image)
 
 Using these parameters, my random forest model had these following scores:
-\nMean Absolute Error: 10.924
-\nMean Squared Error: 188.585
-\nRoot Mean Squared Error: 13.733
+
+Mean Absolute Error: 10.924
+
+Mean Squared Error: 188.585
+
+Root Mean Squared Error: 13.733
 
 Map Visualization: https://voterturnoutmap.herokuapp.com/MapScript
 
