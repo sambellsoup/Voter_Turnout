@@ -10,9 +10,9 @@ My target is the voter turnout figures taken from the IDEA dataset, and my featu
 
 Voter Turnout can be measured either by voters over registered voters, or voters over the voting age population. Each parameter has its drawbacks. The registration roll for each country is difficult to keep up to date, and the voting age population is based on the most recent census figures. Both voter turnout measurements have similar distributions. They have minor skew 
 
-![Voter Turnout over Registered Voters](link-to-image)
+![Voter Turnout over Registered Voters](https://imgur.com/EA3sQWr)
 
-![Voter Turnout over Voting Age Population](link-to-image)
+![Voter Turnout over Voting Age Population](https://imgur.com/xWhgmfa)
 
 In an effort to decide whether or not to include compulsory voting and the type of election (presidential/parliamentary) in my analysis, I conducted a 2 sample t-test on both features. I rejected the null hypothesis for both due to very low p-value in my results. Compulsory voting 
 has an effect on voter turnout, and voter turnout for presidential and parliamentary elections are not the same. 
@@ -23,7 +23,7 @@ has an effect on voter turnout, and voter turnout for presidential and parliamen
 
 I wanted to make my model using only the necessary features, so I conducted a variety of feature selection techniques including L1/Lasso, KBest, and recursive feature selection. My residual plot showed a random pattern, indicating that a linear model may be a good fit. 
 
-![Residual Plot for Voters over Voting Age Population](link-to-image)
+![Residual Plot for Voters over Voting Age Population](https://imgur.com/oqc9H68)
 
 After all of my feature selection, the best features that were consistently indicated by the majority of the feature selection methods were:
   1. Urban Population (%)
@@ -36,13 +36,13 @@ After all of my feature selection, the best features that were consistently indi
   
   Here are some simple scatterplots showing relationships between key features and voter turnout over voting age population.
   
-![Voter Age Population Turnout Percentage Compared with Urban Population (%)](link-to-image)
-![Voter Age Population Turnout Percentage Compared with Education Index](link-to-image)
-![Voter Age Population Turnout Percentage Compared with Morality Rate of Men](link-to-image)
-![Voter Age Population Turnout Percentage Compared with Infant Mortality Rate](link-to-image)
-![Voter Age Population Turnout Percentage Compared with Expected Years of Schooling](link-to-image)
-![Voter Age Population Turnout Percentage Compared with Mortality Rate of Women](link-to-image)
-![Voter Age Population Turnout Percentage Compared with Life Expectancy](link-to-image)
+![Voter Age Population Turnout Percentage Compared with Urban Population (%)](https://imgur.com/CufCM1w)
+![Voter Age Population Turnout Percentage Compared with Education Index](https://imgur.com/0DVKfU6)
+![Voter Age Population Turnout Percentage Compared with Mortality Rate of Men](https://imgur.com/ENq3Rz5)
+![Voter Age Population Turnout Percentage Compared with Infant Mortality Rate](https://imgur.com/oUHdrga)
+![Voter Age Population Turnout Percentage Compared with Expected Years of Schooling](https://imgur.com/AOY70CC)
+![Voter Age Population Turnout Percentage Compared with Mortality Rate of Women](https://imgur.com/ceQvjQh)
+![Voter Age Population Turnout Percentage Compared with Life Expectancy](https://imgur.com/hcESGqz)
 
 Using these parameters, my random forest model had these following scores:
 
