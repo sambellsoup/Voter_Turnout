@@ -10,7 +10,7 @@ My target is the voter turnout figures taken from the IDEA dataset, and my featu
 
 Voter Turnout can be measured either by voters over registered voters, or voters over the voting age population. Each parameter has its drawbacks. The registration roll for each country is difficult to keep up to date, and the voting age population is based on the most recent census figures. Both voter turnout measurements have similar distributions. They have minor skew 
 
-![Voter Turnout over Registered Voters](https://imgur.com/EA3sQWr)
+![Voter Turnout over Registered Voters](https://i.imgur.com/EA3sQWr.png)
 
 ![Voter Turnout over Voting Age Population](https://imgur.com/xWhgmfa)
 
