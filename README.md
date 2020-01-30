@@ -59,11 +59,9 @@ Map Visualization: https://voterturnoutmap.herokuapp.com/MapScript
 
 # Next Steps
 
-I will continue trying different parameters for the global scale voter turnout for better results. The root mean squared error is reduced with the inclusion of more features.
+Continue trying different parameters for the global scale voter turnout for better results. The root mean squared error is reduced with the inclusion of more features.
 
-I will create more visualizations.
-
-I will create more models for specific countries with the United States as my first priority, I will predict the voter turnout for the election in 2020.
+Create more models for specific countries with the United States as my first priority, I will predict the voter turnout for the election in 2020.
 
 
 
