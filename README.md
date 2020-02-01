@@ -63,6 +63,6 @@ Continue trying different parameters for the global scale voter turnout for bett
 
 Create more models for specific countries with the United States as my first priority, I will predict the voter turnout for the election in 2020.
 
-
+Add GDP to data as a possible feature. 
 
   
