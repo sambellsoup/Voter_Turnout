@@ -55,7 +55,7 @@ Root Mean Squared Error: 13.733
 Map Visualization: https://voterturnoutmap.herokuapp.com/MapScript
 
 
-![VoterTurnoutApp](data/Voter_Turnout_App.png)
+![VoterTurnoutApp](images/Voter_Turnout_App.png)
 
 # Next Steps
 
